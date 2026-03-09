@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # encoding: utf-8
-
 # The MIT License
 
 # Copyright (c) 2018 Ina (David Doukhan - http://www.ina.fr/)
